@@ -1,0 +1,13 @@
+name: isya_solar
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - scipy
+  - astropy
+  - sunpy
+  - matplotlib
+  - jupyterlab
+  - bqplot
+  - ipywidgets
