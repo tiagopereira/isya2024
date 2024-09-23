@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks in python for the practical session at [ISYA 2024](https://www.craag.dz/isya2024/). To run these notebooks, you will need the following:
 
-- Download [data file](https://www.uio.no/studier/emner/matnat/astro/AST4310/h20/data/sst_sunspot_617_2020.08.07.fits) with spectral observations (93 MB)
+- Download [data file](https://www.uio.no/studier/emner/matnat/astro/AST4310/h24/data/sst_sunspot_617_2020.08.07.fits) with spectral observations (93 MB)
 - Have installed the required python packages (see below)
 
 ## Prerequisites
